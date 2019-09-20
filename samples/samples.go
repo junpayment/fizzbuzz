@@ -1,8 +1,9 @@
 package main
 
 import (
-	"fizzbuzz"
 	"fmt"
+	
+	"github.com/junpayment/fizzbuzz"
 )
 
 func main() {
