@@ -1,4 +1,4 @@
-[![Actions Status](https://github.com/junpayment/fizzbuzz/workflows/go/badge.svg)](https://github.com/junpayment/fizzbuzz/actions)
+[![Actions Status](https://github.com/junpayment/fizzbuzz/workflows/Go/badge.svg)](https://github.com/junpayment/fizzbuzz/actions)
 
 # FizzBuzz
 You can write fizzbuzz quickly.
